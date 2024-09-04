@@ -1,1 +1,1 @@
-D:\unity\movimentacao\movimentacao_esfera\personagem andando na esfera3d
+C:\Users\alessonbarros\Documents\Git jogos\Jogos Unity\AndandoEmVoltaDaEsfera
